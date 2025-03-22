@@ -1,8 +1,8 @@
-# RouteLogix - Truck Driver ELD & Route Planner
+# RoadLog - Truck Driver ELD & Route Planner
 
 ## 🚛 Overview
 
-RouteLogix is a web application designed to help truck drivers efficiently plan their trips, track their hours of service, and generate ELD (Electronic Logging Device) logs. The app provides:
+RoadLog is a web application designed to help truck drivers efficiently plan their trips, track their hours of service, and generate ELD (Electronic Logging Device) logs. The app provides:
 
 - Route planning with rest and fuel stops using a free map API.
 - ELD-compliant log sheets that can be downloaded as PDFs.
